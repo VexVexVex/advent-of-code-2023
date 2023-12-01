@@ -1,6 +1,6 @@
 proc swap_numbers {a} {
     regsub -all {one} $a o1e a
-    regsub -all {two} $a t2 a
+    regsub -all {two} $a t2o a
     regsub -all {three} $a t3e a
     regsub -all {four} $a 4 a
     regsub -all {five} $a 5e a
