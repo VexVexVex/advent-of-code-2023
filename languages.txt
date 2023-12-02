@@ -5,7 +5,7 @@ C#
 Crystal
 Dart
 Elixir
-F#
+F# - Day 3
 Go
 Java
 Javascript
