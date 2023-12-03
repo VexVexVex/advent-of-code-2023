@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gpMq2FoPDc2hcqBy9O1J+Dwt/DxK3y6RIv3aDpV0knsBvyKjijy7zioilm88ymQBeS5XVPkjFX45XH5Db5tNVA==",
+  "success": true,
+  "projectFilePath": "/home/vex/src/advent-of-code-2023/day3/day3.fsproj",
+  "expectedPackageFiles": [
+    "/home/vex/.nuget/packages/fsharp.core/8.0.100/fsharp.core.8.0.100.nupkg.sha512"
+  ],
+  "logs": []
+}
