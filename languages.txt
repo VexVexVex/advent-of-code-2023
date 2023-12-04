@@ -11,7 +11,7 @@ Java
 Javascript
 Julia
 Kotlin
-Lua
+Lua - Day 5
 Nim
 Odin
 Python
