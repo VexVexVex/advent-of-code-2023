@@ -6,7 +6,7 @@ Crystal
 Dart
 Elixir
 F# - Day 3
-Go
+Go - Day 6
 Java
 Javascript
 Julia
